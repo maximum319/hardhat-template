@@ -1,1 +1,0 @@
-This is hardhat template repo.
